@@ -50,3 +50,11 @@ body {
     height: 100vw;
   }
 }
+
+.pronunciation {
+  font-size: smaller;
+}
+
+.usage {
+  color: grey;
+}
